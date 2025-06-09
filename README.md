@@ -42,7 +42,7 @@ Se tiver alguma dúvida ou sugestão, fique à vontade para entrar em contato! �
 🔗 GitHub: ThabitaMelo
 
 
-🔗LinkedIn: www.linkedin.com/in/tábita-melo
+🔗LinkedIn: www.linkedin.com/in/thabita-melo
 
 
 
