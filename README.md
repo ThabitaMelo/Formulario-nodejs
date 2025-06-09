@@ -17,29 +17,32 @@ Bem-vindo ao meu projeto! 🎉 Este é um servidor web simples feito com **Node.
 
 ## 🚀 Como rodar o projeto  
 
-1. **Clone o repositório**  
+- **Clone o repositório**  
    ```bash
    git clone https://github.com/ThabitaMelo/Formulario-nodejs.git
 
-- Acesse a pasta do projeto
-cd Formulario-nodejs
+- Acesse a pasta do projeto: 
+**cd Formulario-nodejs**
 
-- Instale as dependências
-npm install
+- Instale as dependências:
+**npm install**
 
-- Inicie o servidor
-node server.js
+- Inicie o servidor:
+**node server.js**
 
-- Abra o navegador e acesse
+- Abra o navegador e acesse:
 http://localhost:3000
 
 
 ## ❓ Dúvidas ou sugestões
 Se tiver alguma dúvida ou sugestão, fique à vontade para entrar em contato! 💙
+
 📌 Thabita Melo
+
 🔗 GitHub: ThabitaMelo
 
 
+🔗LinkedIn: www.linkedin.com/in/tábita-melo
 
 
 
